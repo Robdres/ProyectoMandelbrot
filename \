@@ -1,0 +1,27 @@
+---
+title:
+- Conjuntos de Julia
+author:
+- Roberto Alvarado 
+theme:
+- Copenhagen
+colortheme:
+- beaver
+aspectratio:
+- 169
+---
+# Que son los conjuntos de Julia?
+Los conjuntos de Julia, así llamados por el matemático Gaston Julia, son una familia de conjuntos fractales que se obtienen al estudiar el comportamiento de los números complejos al ser iterados por una función holomorfa.
+
+\begin{center}
+$z_{n+1}=z_{n}^2 +C_{o}$
+\end{center}
+# Mandelbrot 
+EL conjunto de Mandelbrot fue un conjunto investigado computacionalmente por primera vez por Benoit Mandelbrot, es a la vez un conjunto de julia que se relaciona  
+\begin{center}
+$z_{n+1}=z_{n}^2 +C_{o}$
+$z_{o}= 0 \in \mathbb C$
+\end{center}
+#
+
+
